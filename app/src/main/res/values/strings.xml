@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CallWithAgoraIo</string>
+    <string name="agora_app_id">738f760efba84f0194d289cd33d8f26d</string>
+    <!-- Please leave it if not enable App Certificate -->
+    <!-- You can generate a temporary token at https://dashboard.agora.io/projects -->
+    <string name="agora_access_token">https://console.agora.io/invite?sign=YXBwSWQlM0Q3MzhmNzYwZWZiYTg0ZjAxOTRkMjg5Y2QzM2Q4ZjI2ZCUyNm5hbWUlM0RudWxsJTI2dGltZXN0YW1wJTNEMTU5NjgyNzc5NiUyNmNoYW5uZWwlM0RkZW1vJTI2dG9rZW4lM0Q%3D</string>
+</resources>
